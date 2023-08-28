@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - ColorShift
 
 Submitted by: Yuga Suzuki
 
-**Name of your app** is an app that... [TODO] 
+ColorShift is an app that changes the color of the text and background. It allows the user to input a text and then outputs the text in red.
 
-Time spent: **X** hours spent in total
+Time spent: 48 hours spent in total
 
 ## Required Features
 
