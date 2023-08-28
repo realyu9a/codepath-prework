@@ -28,12 +28,13 @@ Augmented Reality Filters which can be applied to selfies
 Deleting old messages 
 
 App: Instagram
-Send texts, shares photos
+Send texts, share photos
 Deleting old messages 
 
 App: Youtube
 Save videos 
-SAve videos to playlist
+Recommended videos
+Save videos to playlist
 
 ## Notes
 
