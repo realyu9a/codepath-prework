@@ -32,9 +32,7 @@ Send texts, share photos
 Deleting old messages 
 
 App: Youtube
-Save videos 
-Recommended videos
-Save videos to playlist
+Save videos, recommended videos, save videos to playlist
 
 ## Notes
 
