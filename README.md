@@ -17,24 +17,31 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/lEq7Hyy' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [Kap](https://getkap.co/) for macOS
 
 ## App Brainstorming (Step 4)
 
+App: Snapchat
+Augmented Reality Filters which can be applied to selfies 
+Deleting old messages 
+
+App: Instagram
+Send texts, shares photos
+Deleting old messages 
+
+App: Youtube
+Save videos 
+SAve videos to playlist
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I had when creating this app was that I kept getting the outlet connection error because I kept on forgeting to break the connections.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Yuga Suzuki]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
