@@ -34,6 +34,8 @@ Deleting old messages
 App: Youtube
 Save videos, recommended videos, save videos to playlist
 
+An app I would like to build is an app using augmented/virtual reality. This app would allow people to see themselves in whatever outfits they want. This will allow online customers the ability to see how an item would appear on them, allowing them to get the proper size. 
+
 ## Notes
 
 Some challenges I had when creating this app was that I kept getting the outlet connection error because I kept on forgeting to break the connections.
